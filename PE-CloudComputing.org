@@ -1,0 +1,67 @@
+* CLOUD COMPUTING
+:properties:
+:author: Y V Lokeswari, K Vallidevi
+:date: 12 Dec 2019
+
+|L|T|P|C|
+|3|0|2|4|
+
+** Course Objectives
+- To understand the concepts of virtualization and virtual machines.
+- To gain knowledge about virtualization Infrastructure.
+- To understand the principles of Cloud Architecture, Models and Infrastructure.
+- To explore and experiment various Cloud deployment environments.
+- To learn about the security issues in the cloud environment. 
+
+|Unit I |Virtualization Introduction|9| 
+Basics of Virtualization -- Emulation –- Interpretation –- Binary Translation -- Virtualization Advantages -- Virtual Machine Basics –- Taxonomy of Virtual Machines -- Process Virtual Machines -- System Virtual Machines –- Hypervisor -- Key Concepts -- Virtualization Types –- Desktop Virtualization –- Network Virtualization –- Server and Machine Virtualization –- Storage Virtualization –- System-level of Operating Virtualization –- Application Virtualization.
+#+latex: % Unit I is from the course Virtualization IF7020, Anna University. M.Tech IT- R2015.
+
+|Unit II|Virtualization Infrastructure|9| 
+Comprehensive Analysis –- Resource Pool -– Testing Environment –- Virtual Workloads –- Provision Virtual Machines –- Implementation levels of virtualization -– Virtualization structure –- Virtualization of CPU, Memory and I/O devices –- Virtual clusters and Resource Management –- Virtual Machine Monitors -- KVM, Xen, VMWareESXi server.
+#+latex: % Unit II is from the course Virtualization IF7020, Anna University. M.Tech IT- R2015.
+
+|Unit III|Cloud Architecture Models and Infrastructure|9| 
+Cloud Architecture: System Models for Distributed and Cloud Computing –- NIST Cloud Computing Reference Architecture -- Cloud deployment models –- Cloud service models; Cloud Infrastructure: Architectural Design of Compute and Storage Clouds –- Layered Cloud Architecture Development -– Design Challenges -- Inter Cloud Resource Management -– Resource Provisioning and Platform Deployment -– Global Exchange of Cloud Resources.
+#+latex: % Unit III is from the course Cloud Computing IF7202, Anna University. M.E CSE - R2015.
+
+|Unit IV| Cloud Deployment Environment|9|
+Programming Support: Google File System -- Hadoop Map Reduce -- Hadoop Distributed File System -- Google App Engine -- Amazon AWS -- Microsoft Azure; Cloud Software Environments: Eucalyptus -- OpenStack -- OpenNebula -- Aneka -- CloudSim.
+#+latex: % Unit IV is from the course Cloud Computing IF7202, Anna University. M.E CSE - R2015. 
+#+BEGIN_COMMENT
+
+#+END_COMMENT
+
+|Unit V|Cloud Security|9|
+Multi-tenancy Issues: Isolation of users/VMs from each other -- Virtualization System Vulnerabilities: Management console vulnerabilities -- management server vulnerabilities -- administrative VM vulnerabilities -- guest VM vulnerabilities, hypervisor vulnerabilities -- hypervisor escape vulnerabilities -- configuration issues; Virtualization System-Specific Attacks: Guest hopping -- attacks on the VM (delete the VM, attack on the control of the VM, code or file injection into the virtualized file structure) -- VM migration attack -- hyperjacking. 
+#+latex: % Unit V is from the course Cloud Security CC2005, SRM University. M.Tech in Cloud Computing.  
+
+|Total:|45|
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Understand the need of Virtualization and analyse its types. (K2)
+- Explore about Virtualization of Hardware resources and Virtual Machine Monitors. (K3)
+- Understand the design challenges in Cloud Environment.(K2)
+- Develop and Deploy services on Cloud  & able to set up a private Cloud Environment using open source software and test them. (K3)
+- Understanding the security challenges in cloud environment. (K2)
+      
+** References
+1. Kai Hwang, Geoffrey C Fox, Jack G Dongarra, ``Distributed and Cloud Computing, From Parallel Processing to the Internet of Things'', Morgan Kaufmann Publishers, 2012. (Units I, II, IV).
+2. Srinivasan A, Suresh J, ``Cloud Computing: A practical Approach for Learning and Implementation'', Pearson Education India, 2014. (Units I, II, III, IV)
+3. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner‟s Guide'', McGraw-Hill Osborne Media, 2009. (Units I & II)
+4. Tim Mather, Subra Kumaraswamy, and Shahed Latif , ``Cloud Security and Privacy: an enterprise perspective on risks and compliance'', O‘Reilly Media, Inc., 2009. (Unit V)
+5. James E. Smith, Ravi Nair, ``Virtual Machines: Versatile Platforms for Systems and Processes'', Elsevier/Morgan Kaufmann, 2005. (Units II, III)
+6. William von Hagen, ``Professional Xen Virtualization'', Wrox Publications, January, 2008. (Unit III)
+7. David Marshall, Wade A. Reynolds, ``Advanced Server Virtualization: VMware and Microsoft Platform in the Virtual Data Center'', Auerbach Publications, 2006. (Unit III)
+8. Chris Hay, Brian Prince, ``Azure in Action'', Manning Publications, 2010. (Unit IV)
+9. Eugene Ciurana, ``Developing with Google App Engine'', 1 edition, Apress, 2009. (Unit IV)
+10. Kevin Jackson, Cody Bunch, ``OpenStack Cloud computing Cookbook'', Second Edition, Packt Publishing, 2013. (Unit IV)
+11. Giovanni Toraldo, ``OpenNebula 3 Cloud Computing'', Packt Publishing, 2012. (Unit IV)
+12. Krutz, Ronald L., and Russell Dean Vines. ``Cloud security: A comprehensive guide to secure cloud computing'', Wiley Publishing, 2010. (Unit V)
+
+
+
+
+
+

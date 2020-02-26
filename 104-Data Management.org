@@ -1,0 +1,51 @@
+Data Management for Big Data    3-0-0-3
+#+begin_comment
+RSM
+1. Unit 1: Relational database
+2. Unit 2: Distributed Databases and Big Data.
+   Remove ETL. 
+#+end_comment
+UNIT I 	     OVERVIEW OF RELATIONAL and DISTRIBUTED DATABASES	9
+Relational Data Model: Data independence, Schema, Integrity constraints –  SQL, Complex queries, user-defined functions (UDFs),
+Triggers and Views - Database Design - Functional Dependencies and Normalization – 
+
+Unit 2 Distributed Databases and Big Data								         9
+Distributed Database Concepts - fragmentation –  allocation - Query Processing.
+Big data – Definition, characteristics – Big data applications - Big data versus Traditional Data - 
+Risks of Big Data - Structure of Big Data - Web Data.  
+
+Unit 3 – Data Warehousing
+
+Basic Concepts: Data warehousing components -- Building a data Warehouse -- Database
+Architectures for Parallel Processing --  Multidimensional Data Model: Data Warehouse Schema; Concept Hierarchies; 
+Characteristics of OLAP Systems -- Typical OLAP Operations, OLAP and OLTP. <<Add data lake, expand schema - galaxy, snowflack, star>>
+
+Unit 4 -  NOSQL Data Management							         9
+Introduction to NoSQL – Aggregate data models- Aggregates, Key-value and document models, Column-Family stores, 
+summarizing Aggregate oriented databases – Schemaless Database- Materialized Views – 
+Hbase – Introduction and data model, architecture – advanced usage – Hbase examples.  
+Hive – data types and file formats. HiveQL data definition – HiveQL data manipulation – HiveQL queries 
+
+Unit 5 – NOSQL Data Management											         9
+Redis database.  Cassandra – Introduction, data model – architecture, reading and writing data, - cassandra examples 
+
+<<< Revise on
+Redis – expand – book
+ETL – book – expand
+Redistribution of topics >>>
+Lab Assignments 15 sessions
+RDBMS, SQL, HBase, Hive, Cassandra, Redis
+Relational database – ER to db design – normalization – constraints – queries - triggers
+Warehouse design – star and galaxy schema, Hive queries
+Columnar design using Hbase
+Cassandra – Hotel APP – refer book
+REFERENCES:
+1.	R. Elmasri, S.B. Navathe, “Fundamentals Of Database Systems”, Fifth Edition,  Pearson Education, 2004.
+2.	Bill Franks, ―Taming the Big Data Tidal Wave: Finding Opportunities in Huge Data Streams with Advanced Analytic, Wiley and SAS Business Series, 2012.
+3.	P. J. Sadalage and M. Fowler, "NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence", Addison-Wesley Professional, 2012.
+4.	E. Capriolo, D. Wampler, and J. Rutherglen, "Programming Hive", O'Reilley, 2012.
+5.	Lars George, "HBase: The Definitive Guide", O'Reilley, 2011.
+6.	Eben Hewitt, "Cassandra: The Definitive Guide", O'Reilley, 2010.
+7.	Alan Gates, "Programming Pig", O'Reilley, 2011
+8.	P. J. Sadalage and M. Fowler, "NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence", Addison-Wesley Professional, 2012
+

@@ -1,0 +1,62 @@
+* <<<TEXT ANALYTICS>>> 
+:properties:
+:author: B.Senthil Kumar, D. Thenmozhi
+:date: 04 Dec 2019
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 2 | 4 |
+
+** Course Objectives
+- To understand the basic issues and types of text mining
+- To appreciate the different aspects of text categorization and clustering
+- To understand the role played by text mining in Information retrieval and extraction
+- To appreciate the use of probabilistic models for text analytics
+- To appreciate the current trends in text analysis
+
+|Unit I |Introduction|9|
+Overview - Definition - General Architecture - Algorithms - Core Operations - Pre-processing - Types of Problems - 
+basics of document classification - information retrieval - clustering and organizing documents - information extraction 
+- prediction and evaluation - Textual information to numerical vectors - Collecting documents - document standardization 
+- tokenization - lemmatization - vector generation for prediction - sentence boundary determination - evaluation performance
+
+|Unit II |TEXT CATEGORIZATION AND CLUSTERING|10|
+Text Categorization: Definition - Document Representation - Feature Selection - Decision Tree Classifiers - 
+Rule-based Classifiers - Probabilistic and Naive Bayes Classifiers - Linear Classifiers - Classification of Linked and Web Data 
+- Meta-Algorithms; Clustering: Definition- Vector Space Models - Distance-based Algorithms - Word and Phrase-based Clustering
+- Semi-Supervised Clustering - Transfer Learning
+
+|Unit III |TEXT ANALYTICS FOR IR AND IE|9|
+Information retrieval and text mining: keyword search - nearest-neighbor methods - similarity-web-based document search 
+- matching-inverted lists - evaluation; Information extraction: Architecture - Co-reference - Named Entity and Relation Extraction 
+- Template filling and database construction - Applications - Probabilistic models for IE: Hidden markov models, Maximum entropy models, 
+Conditional random field
+
+|Unit IV |TEXT SUMMARIZATION AND TOPIC MODELS|9|
+Text Summarization Techniques: Topic Representation - Influence of Context - Indicator Representations - Selecting summary sentence; 
+Topic Modeling: Relationship Between Clustering - Dimension Reduction and Topic Modeling - Latent Semantic Indexing - 
+Probabilistic Latent Semantic Indexing - Latent Dirichlet Allocation-Interpretation and Evaluation.
+
+|Unit V |APPLICATION|8|
+Visualization Approaches - Architectural Considerations - Visualization Techniques in Link Analysis; Text Analytics in Social Media; 
+Opinion Mining and Sentiment Analysis: Document Sentiment Classification - Opinion Lexicon Expansion - Opinion Spam Detection; 
+Text Mining Applications and Case studies.
+
+TOTAL: 45 PERIODS
+
+** Course Outcomes
+Upon Completion of the course, the students will be able to 
+- Identify the different features that can be mined from text and web documents
+- Use available open source classification and clustering tools on some standard text data sets. 
+- Modify existing classification/clustering algorithms in terms of functionality or features used.
+- Design a system that uses text mining to improve the functions of an existing open source search engine. 
+- Implement a text mining system that can be used for an application of your choice 
+
+** References
+1. Sholom Weiss, Nitin Indurkhya, Tong Zhang, Fred Damerau, “The Text Mining Handbook: Advanced Approaches in Analyzing Unstructured Data”, Springer, 2010.
+2. Ronen Feldman, James Sanger, “The Text Mining Handbook: Advanced Approaches in Analyzing Unstructured Data”, Cambridge University press, 2006.
+3. Charu C. Aggarwal, ChengXiang Zhai, "Mining Text Data", Springer; 2012.
+4. Dipanjan Sarkar, “Text Analytics with Python: A Practical Real-World Approach to Gaining Actionable Insights from your Data”, Springer; 2016.

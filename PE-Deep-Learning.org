@@ -1,0 +1,43 @@
+DEEP LEARNING
+
+
+OBJECTIVES
+To understand the basics of deep neural networks
+To understand CNN and RNN architectures of deep neural networks
+To comprehend the advanced deep learning models
+To learn deep learning algorithms and their applications to solve real world problems
+To learn TensorFlow for implementing deep learning algorithms
+
+UNIT I DEEP NETWORK BASICS 										9
+Linear Algebra: Scalars –  Vectors –  Matrices and tensors; Probability Distributions –  Gradient based Optimization  –  Machine Learning Basics: Capacity  –  
+Overfitting and underfitting  – Hyperparameters and validation sets  –  Estimators  –  Bias and variance  –  Stochastic gradient  descent  –  Challenges motivating deep learning; 
+TensorFlow: Introduction – Basics – Optimizers – Regression (Celsius to Fahrenheit ) – Classification.
+
+UNIT II CONVOLUTIONAL NEURAL NETWORKS  							9
+Convolution Operation  –  Sparse Interactions  –  Parameter Sharing  –  Equivariance  –  Pooling  – Convolution Variants: Stride  –  Tiled  –  
+Transposed and dilated convolutions; CNN Learning:  Nonlinearity Functions –  Loss Functions – Regularization – Optimizers – Gradient Computation  –  CNN through Visualization; 
+CNN Architectures; Implementing CNN using TensorFlow.
+ 
+UNIT III  RECURRENT NEURAL NETWORKS 								 9
+Unfolding Graphs –  RNN Design Patterns: Acceptor  –  Encoder  –  Transducer; Gradient  Computation –Recursive Neural Networks  –  Long Term Dependencies; 
+Gated Architecture: LSTM – Gated RNN  - Implementing RNN variants  using TensorFlow
+
+UNIT IV  AUTOENCODERS											9
+Autoencoders: Regularized autoencoders –  Stochastic encoders and decoders –  Learning with autoencoders;  Sparse Autoencoders – Implementing AE variants using TensorFlow 
+
+UNIT V  GENERATIVE MODELS  										9
+Deep Generative Models: Variational autoencoders – Generative adversarial networks - Implementing Generative models using TensorFlow.
+
+OUTCOMES 
+On successful completion of this course, the student will be able to
+Understand basics in deep neural networks (K2)
+Apply Convolution Neural Network for real-world problems in image processing (K3)
+Apply Recurrent Neural Network and its variants for text analysis (K3)
+Understand the concepts in autoencoders and generative models (K2)
+Understand and apply TensorFlow – a opensource programming platform for deep learning algorithms (K3)
+
+REFERENCE BOOKS
+1.  Ian Goodfellow, Yoshua Bengio, Aaron Courville, Deep Learning, MIT Press, 2016.
+2.  Salman Khan, Hossein Rahmani, Syed Afaq Ali Shah, Mohammed Bennamoun, A Guide  to Convolutional Neural Networks for Computer Vision, Synthesis Lectures on Computer  Vision, 
+     Morgan & Claypool publishers, 2018.
+3.  Santanu Pattanayak, Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python, Apress, 2017.

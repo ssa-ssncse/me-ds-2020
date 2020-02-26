@@ -1,0 +1,32 @@
+
+Course Objectives
+
+1.	To learn installation and configuration of big data application framework
+2.	To implement programs using Spark
+3.	To learn and develop machine and deep learning applications using big data application framework
+
+Suggestive Experiments
+
+1.	Installation and configuration of hadoop using single node
+2.	Installation and configuration of hadoop using multiple nodes
+3.	Write and execute map reduce application (Wordcount, Count of Rainy days, etc)
+4.	Write program to aggregate log files using Apache Flume
+5.  Write program to process the RDBMS data using Apache Sqoop
+6.	Construct RDD and perform various transformation operations on it using spark
+7.  Write an application in spark to process the data which is streamed by using kafka
+Following experiments using SparkMLLib
+8.	Implement linear and logistic regression
+9.	Implement clustering technique
+10.	Implementation of classifier
+11.	Implement convolutional neural network 
+12.	Implement movie recommendation system
+
+
+Course Outcomes
+
+1.	To develop applications using Hadoop and Mapreduce (K3)
+2.	To develop applications using data ingestion techniques in Hadoop (Flume, sqoop, kafka) (K3)
+3.	To develop machine and deep learning applications using SparkMLLib (K3)
+
+
+

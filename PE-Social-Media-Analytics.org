@@ -1,0 +1,68 @@
+* <<<SOCIAL MEDIA ANALYTICS>>> 
+:properties:
+:author: V.S. Felix Enigo, G. Raghuraman
+:date: 11 Dec 2019
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 2 | 4 |
+
+** Course Objectives
+
+- To understand the fundamentals of Social media analytics
+- To represent social media as network to perform analysis
+- To appreciate the use of various visualization techniques  to represent social network measures and algorithms
+- To be familiar with various text mining techniques for performing social media text analytics
+- To Learn sentiment analysis to apply prediction on social media text
+
+
+
+|Unit I |Fundamentals of Social Media Analytics|9|
+Introduction - Social Media Analytics, Social Media Monitoring, Social Media Intelligence, Social Media Engagement 
+– Social media Data – Types of Data – Social Media Providers – Text Cleaning Tagging and Storing.
+
+|Unit II |Social Media Analysis in network perspective |9|
+Introduction to Social Network Analysis - Development of Social Network Analysis - Key concepts and measures in network analysis 
+- Electronic sources for network analysis. 
+
+|Unit III |Visualization of Social network|9|
+Graph theory - Centrality - Clustering - Node-Edge Diagrams - Matrix representation 
+– Visualizing online social networks, Visualizing social networks with matrix-based representations 
+- Matrix and Node-Link Diagrams - Hybrid representations.
+
+|Unit IV |Text mining|9| 
+Text mining basics – Web Crawling and Scraping, Lexical Resources, Basic Text Processing, Supervised learning; 
+Text mining methods – Word and text relatedness, Text Classification, Information Extraction, Information Retrieval 
+- A case study in text mining from twitter data
+
+|Unit V |Sentiment Analysis|9|
+Sentiment Analysis in Social Networks: A Machine Learning Perspective - Irony, Sarcasm, and Sentiment Analysis
+- Suggestion Mining from Opinionated Text - Opinion Summarization and Visualization - A case study in Sentiment Analysis.
+
+TOTAL: 45 PERIODS
+
+** Course Outcomes
+Upon Completion of the course, the students will be able to 
+- To remember the fundamentals of Social media analytics
+- To perform analysis on social media network 
+- To use various visualization techniques  to represent social network measures and algorithms
+- To apply various text mining techniques for performing social media text analytics
+- To apply sentiment analysis to perform prediction on social media text
+ 
+
+Text Books:
+1.	Bogdan Batrinca , Philip C. Treleaven,  Social media analytics: a survey of techniques, tools and platforms, Springerlink, 2015.
+2.	Peter Mika, “Social Networks and the Semantic Web”, First Edition, Springer 2007.   
+3.	Borko Furht, “Handbook of Social Network Technologies and Applications”, 1st Edition, Springer, 2010.
+4.	Gabe Ignatow, Text Mining: A Guidebook for the Social Sciences 1st Edition,  Sage publication, 2017.
+5.	Federico Alberto Pozzi, Elisabetta Fersini Enza Messina and Bing Liu, Sentiment Analysis in Social Network, 2017. 
+
+References:
+1.	The Fundamentals of Social Media Analytics – Crimson Hexagon
+2.	Marshall Sponder , Social Media Analytics: Effective Tools for Building, Interpreting, and  using metrics, McGraw Hill, 2012.
+3.	Ganis and Kohirkar, Social media Analytics techniques and insight for extracting Business Value out of Social Media, 2016.
+4.	Daniel Godfrey, Caley Johns, Carol Sadek, Carl Meyer and Shaina Race, "A Case Study in Text Mining: Interpreting Twitter Data from World Cup Tweets", arXiv.org, August 2014.
+5.	Paolo Fornacciari, Monica Mordonini and Michele Tomaiuolo, "A Case-Study for Sentiment Analysis on Twitter", Proc. of the 16th Workshop “From Object to Agents” (WOA15), June 17-19, Naples, Italy.

@@ -1,0 +1,58 @@
+* <<<PE>>> ANALYTICS FOR MANUFACTURING AND PROCESS CONTROL
+:properties:
+:author: Dr. S. V. Jansi Rani and Mr. K. R. Sarath Chandran
+:date: 
+:end:
+
+
+#+startup: showall
+
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 2 | 4 |
+
+** COURSE OBJECTIVES
+- To learn fundamentals of intelligent techniques used in manufacturing
+- To understand the various stages of intelligent manufacturing
+- To study about the neural networks, fuzzy set and genetic algorithm used in manufacturing and process control 
+
+
+{{{unit}}}
+|UNIT I | Computational Intelligence for Manufacturing (Ch1) | 9 |
+Introduction -- Knowledge-Based Systems -- Fuzzy Logic -- Inductive Learning -- Neural Networks -- Genetic Algorithms -- Some Applications in Engineering and Manufacture.
+
+{{{unit}}}
+|UNIT II | Applications in Intelligent Manufacturing (Ch2)| 9 |
+Introduction -- Modeling and Design of Manufacturing Systems -- Modeling, Planning, and Scheduling of Manufacturing Processes -- Monitoring and Control of Manufacturing Processes -- Quality Control, Quality Assurance, and Fault Diagnosis.
+
+{{{unit}}}
+|UNIT III | Genetic Algorithms in Manufacturing (Ch6,10) | 9 |
+Genetic Algorithms in Manufacturing System Design: Introduction -- The Design of Cellular Manufacturing Systems -- The Concepts of Similarity Coefficients -- A Genetic Algorithm for Finding the Optimum Process Routings for Parts -- Layout Design -- A Genetic Algorithm for Layout Optimization;  Production Planning and Scheduling Using Genetic Algorithms: Introduction -- Resource-Constrained Project Scheduling Problem -- Parallel Machine Scheduling Problem -- Job-Shop Scheduling Problem.
+
+{{{unit}}}
+|UNIT IV | Neural Network in Monitoring and Control (Ch12) | 9 |
+Introduction -- Manufacturing Process Monitoring and Control -- Neural Network-Based Monitoring -- Quality Monitoring Applications -- Neural Network-Based Control -- Process Control Applications.
+
+{{{unit}}}
+|UNIT V | A Hybrid Neural Fuzzy System for Statistical Process Control (Ch18) | 9 |
+Statistical Process Control -- Neural Network Control Charts -- A Hybrid Neural Fuzzy Control Chart -- Design, Operations, and Guidelines for Using the Proposed Hybrid Neural Fuzzy
+Control Chart -- Properties of the Proposed Hybrid Neural Fuzzy Control Chart.
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+- Identify the appropriate computational techniques used in the industry domain (K2)
+- Understand various stages in manufacturing and process control (K2)
+- Apply genetic algorithm in manufacturing design and production scheduling in practice (K3)
+- Apply neural networks in process monitoring and control (K3)
+- Explore the hybrid techniques for process control (K3).
+ 
+** TEXT BOOKS
+1. Jun Wang et al, `` Computational Intelligence in Manufacturing Handbook'', CRC Press, 2001.
+
+** REFERENCES
+1. Victor A. Skormin, `` Introduction to Process Control - Analysis, Mathematical Modeling, Control and Optimization'', Springer International Publishing 2016, First Edition ISBN:978-3-319-82540-3.
+2. Cihan.H. Dagli, ``Artificial Neural Networks for Intelligent Manufacturing '', Springer Science & Business Media, 2012.
+

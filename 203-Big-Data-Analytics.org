@@ -1,0 +1,126 @@
+#+begin_comment
+RSM
+I suggest this flow:
+1. Introduction to big data analytics (UNIT I)
+    Included
+2. HDFS (UNIT I)
+    Included
+3. Yarn (UNIT I)
+    Included
+4. Overview of Map-Reduce (UNIT I)
+    Included
+5. ETL, Data Formats - Tools like Talend (UNIT II)
+         These topics are covered in Apache Flume.
+6. Spark (UNIT III)
+    Done
+7. SparkML (UNIT IV)
+     Unit IV  Kafka Streaming has been suggested by HOD
+     SparkML is given in Unit V
+8. Structured streaming in Spark (UNIT V)
+     When comparing to spark streaming, kafka is simpler 
+
+#+end_comment
+
+
+Course Objectives
+
+1.	To learn big data application framework
+2.	To understand preprocessing and streaming platforms 
+3.	To learn and understand machine and deep learning with big data application framework
+
+
+UNIT I HADOOP FRAMEWORK						9 
+Introduction to big data analytics; HDFS: Design - Concepts and Command Line Interface; Map reduce: Anatomy - task execution - shuffle and sort; 
+Introduction to YARN
+
+#+begin_comment
+Book
+Tom White “ Hadoop: The Definitive Guide” Third Edit on, O’reily Media, 2012
+Chapter 3, (45-55)
+Chapter 6 (187-199)
+#+end_comment
+
+UNIT II DATA INGESTION IN HADOOP					8
+                                    	 
+Introduction to Data ingestion techniques - Apache Flume: Channels, Sinks and sink processors, Sources and channel selectors, Interceptor, ETL and Routing;
+Apache Sqoop: Importing data, importing incremental data, free-form data and export
+
+#+begin_comment
+Book
+Steve Hofmann  “Apache Flume: Distributed log collection for Hadoop” First  Edition, Packt publishing, Open source, 2013
+
+Chapters 3,4,5,6 (Pages from 25 to 75)
+
+Book
+Kathleen Ting and Jarek Jarcec Cecho, “Apache Sqoop Cookbook”, O’reilly publications, July 2013
+Chapters 2,3,4 (Page numbers 9-48)
+#+end_comment
+
+UNIT III APACHE SPARK 							8
+Introduction – Architecture – Resilient Distributed Datasets (RDD): Construction, Operations, Transformations, Set operations, actions
+
+#+begin_comment
+Book1
+Muhammad Asif Abbasi “Learning Apache Spark 2”, Packt Publishing, March 2017
+https://www.oreilly.com/library/view/learning-apache-spark/9781785885136/
+Chapters 1 & 2
+Book2
+Jeffrey Aven “Data Analytics with spark using python”, Pearson publication, 2018
+Chapter 4 (Pages from 89-158)
+#+end_comment
+
+
+
+UNIT IV KAFKA STREAMING					 	10 
+
+#+begin_comment
+Check this link : https://dzone.com/articles/spark-streaming-vs-kafka-stream-1
+#+end_comment
+
+Kafka Producer: Construction, Sending message, Configuration and Serialization – Kafka consumer: Concepts Creation, Subscription and Configuration;
+Kafka internals: Controller, Replication, Request processing and Physical storage 
+
+Book
+Neha Narkhede, Gwen Shapira, and Todd Palino, “Kafka: The Definitive guide Real time data and stream processing at scale”, O’Reily publications, 2017 
+
+Chapter 3, (42-56)
+Chapter 4, (63-72)
+Chapter 5, (95-112)
+
+UNIT V MACHINE LEARNING WITH SPARK					 10 
+Introduction to SparkMLLib – Feature Engineering - Classification – Regression – Clustering – Convolutional Neural Networks in Spark – Case study: Movie Recommendation system
+
+#+begin_comment																								PERIODS :45 
+Book1
+Muhammad Asif Abbasi Learning Apache Spark 2, Packt Publishing, March 2017
+https://www.oreilly.com/library/view/learning-apache-spark/9781785885136/
+Chapter 6,9
+
+Book2
+Amrith Ravindra, Ahmed Sherif, “Apache Spark Deep Learning Cookbook”,  Packt Publishing, July 2018
+https://www.oreilly.com/library/view/apache-spark-deep/9781788474221/
+Chapter 2 & 3
+#+end_comment
+
+Course Outcomes
+On successful completion of this course, the students will be able to  
+  
+1.	Develop applications using big data application framework - Hadoop (K3)
+2.	Understand data ingestion techniques in Hadoop(K3)
+3.	Develop applications using Apache Spark(K3)      
+4.	Create stream data using kafka streaming(K3)          
+5.	Develop machine and deep learning applications with SparkMLLib (K3)   
+   
+
+
+REFERENCE BOOKS  
+
+1.	Tom White “ Hadoop: The Definitive Guide” Third Edit on, O’reily Media, 2012 - Unit I -Chapter 3, 6
+2.	Steve Hofmann  “Apache Flume: Distributed log collection for Hadoop” First  Edition, Packt publishing, Open source, 2013 - Unit II - Chapters 3,4,5,6
+3.	Kathleen Ting and Jarek Jarcec Cecho, “Apache Sqoop Cookbook”, O’reilly publications, July 2013 - Unit II - Chapters 2,3,4
+4.	Neha Narkhede, Gwen Shapira, and Todd Palino, “Kafka: The Definitive guide Real time data and stream processing at scale”, O’Reily publications, 2017 
+5.	Muhammad Asif Abbasi Learning Apache Spark 2, Packt Publishing, March 2017 - Unit III - Chapters 1 & 2, Unit V - Chapter 6,9
+6.	Amrith Ravindra, Ahmed Sherif, “Apache Spark Deep Learning Cookbook”,  Packt Publishing, July 2018, Unit V - Chapter 2 & 3
+7.	Jeffrey Aven “Data Analytics with spark using python”, Pearson publication, 2018 - Unit III - Chapter 4, Unit V - Chapter 4
+
+

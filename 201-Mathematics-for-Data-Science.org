@@ -1,0 +1,54 @@
+* <<< >>> Mathematics for Data Science
+:properties:
+:author:    Dr. J. Bhuvana
+:end:
+
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To understand basic  concepts of linear  algebra(systems  of linear  equations,  matrix,  vectors  and basic  vector operations)
+- To solve computational problems of linear algebra
+- To learn differential, integral and vector calculus for functions of more than one variable
+- To understand the elementary probability theory and basic concepts of statistical inference
+- To understand  the basic mathematical concepts of optimization. 
+ 
+{{{unit}}}
+| UNIT I | Linear Algebra  | 9 |
+Linear Equations: Systems of Linear Equations -- Row Reduction and Echelon Forms -- Vector Equations -- Matrix Equation -- Solution Sets of Linear Systems -- Applications of Linear Systems -- Linear Independence --  Introduction to Linear Transformations -- Matrix of a Linear Transformation -- Linear Models in Business, Science, and Engineering; Matrix Algebra: Matrix Operations  -- Inverse of a Matrix -- Characterizations of Invertible Matrices -- Partitioned Matrices -- Matrix Factorizations;  Determinants:  Properties -- Cramer’s Rule, Volume, and Linear Transformations. 
+
+{{{unit}}}
+| UNIT II | Vector Space and Least square | 9 |
+
+Vector Spaces:  Vector Spaces and Subspaces -- Null Spaces, Column Spaces, and Linear Transformations -- Linearly Independent Sets --  Coordinate Systems, Dimension of a Vector Space;  Eigenvalues and Eigenvectors: Characteristic Equation -- Diagonalization -- Eigenvectors and Linear Transformations -- Complex Eigenvalues -- Discrete Dynamical Systems; Orthogonality and Least Squares: Inner Product, Length, and Orthogonality -- Orthogonal Sets -- Orthogonal Projections -- The Gram—Schmidt Process -Least-Squares Problems.   
+
+{{{unit}}}
+| UNIT III |Calculus  | 9 |
+Partial Differentiation: Introduction -- Functions of Several Variables -- Limits and Continuity -- Partial Derivatives. Multivariable Optimization Problems -- Increments and Linear Approximation -- The Multivariable Chain Rule  -- Directional Derivatives and the Gradient Vector  -- Lagrange Multipliers and Constrained Optimization -- Critical Points of Functions of Two Variables.
+Multiple Integrals: Double Integrals -- Double Integrals over More General Regions -- Area and Volume by Double Integration -- Double Integrals in Polar Coordinates -- Applications of Double Integrals; Triple Integrals -- Integration in Cylindrical and Spherical Coordinates; Vector Calculus -- Vector Fields -- Line Integrals -- The Fundamental Theorem and Independence of Path
+
+{{{unit}}}
+| UNIT IV | | 9 |
+
+
+| UNIT V | Introduction to Optimization  Techniques | 9 |
+{{{unit}}}
+Introduction to optimization techniques -- Statement of an optimization problem -- classification -- Unconstrained optimization-gradient search method --Gradient of a function; steepest gradient conjugate gradient --  Newton‟s Method --  Marquardt Method; Constrained optimization -– sequential linear programming -- Interior penalty function method -- external penalty function method
+ 
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+Upon the completion of the course the students should be able to: 
+
+**TEXTBOOKS
+1. Linear algebra and it’s applications." ,  David C.Lay, Steven R. Lay, Judi J. McDonal, 5th edition, Pearson .  (Unit-I, II)
+
+** REFERENCES
+1. Stephen Boyd, Lieven Vandenberghe, ``Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares'', Cambridge University Press , 2018. 
+2. Edwards, Henry C., and David E. Penney, ``Multivariable Calculus'', 6th ed. Lebanon, IN: Prentice Hall, 2002. ISBN: 9780130339676. (Unit-III)
+2. Bendat, J. S. and A. G. Piersol, ``Random Data: Analysis and Measurement Procedures'', 4th Edition. John Wiley & Sons, Inc., NY, USA, 2010.  (Unit-IV)
+3. Singiresu S. Rao, “Engineering Optimization – Theory and Practice”, 4th edition, John Wiley & Sons, 2009 (Unit-V)
+\ No newline at end of file

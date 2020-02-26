@@ -1,0 +1,82 @@
+<<<PE206>>> Data science Lab
+:properties:
+:author: Dr. T. T. Mirnalinee and Ms. S. Rajalakshmi
+:date: 
+:end:
+#+begin_comment
+- 
+
+** CO PO MAPPING :noexport:
+#+NAME: co-po-mapping
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
+| CO1            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+| CO2            | K2 |   2 |   2 |   1 |   1 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+| CO3            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+| CO4            | K2 |   2 |   2 |   1 |   1 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+| CO5            | K2 |   2 |   2 |   1 |   1 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+| Score          |    |  12 |  10 |   7 |   7 |   5 |   0 |   0 |   5 |   5 |    5 |    0 |    5 |   10 |   12 |   10 |
+| Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To learn fundamentals of Data Science using Python
+  # for carrying  out basic statistical modeling and analysis
+- To understand probability distributions and statistical Inferences
+  # used for statistical modeling
+- To be familar with supervised and unsupervised methods in machine
+  learning
+- To explore the algorithms used for analysing massive data problems
+  and social networks
+- To learn about visualization. 
+
+#+end_comment
+
+
+#+startup: showall
+
+1. Basic data manipulation programs in Python
+2. Basic programs for visualizing data 
+3. Programs to explore and infer data
+4. Apply Linear Regression to solve a data science problem
+5. Apply SVM classification techniques
+6. Apply Decision tree
+7. Apply clustering techniques
+8. Visualize data using any plotting framework
+
+ Applications
+
+i.	Flower type classification based on available attributes using Iris dataset
+ii.	Passengers survival classification using titanic dataset
+iii.Loan prediction using Credit approval dataset
+iv.	Sales prediction using Bigmart dataset
+v.	Sentiment analysis using twitter dataset
+vi.Hand written digit recognition using MNIST dataset
+
+\hfill *Total Periods: 45*
+
+#+begin_comment
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+- Develop Python programs to perform analysis on data (K3)
+- Understand various probability distributions and statistical inferences (K2)
+- Develop applications to demonstrate machine learning algorithms in practice (K3)
+- Understand the principles of handling data streams (K2)
+- Discuss topic and graphical modeling techniques in real world problem (K2).
+#+end_comment
+ 
+** TEXT BOOKS
+
+1. Jake VanderPlas, ``Python Data Science Handbook ESSENTIAL TOOLS FOR WORKING WITH DATA '', 
+O’Reilly Media, Inc., 2016 
+2. Joel Grus, `` Data Science from Scratch FIRST PRINCIPLES WITH PYTHON '', O’Reilly Media, Inc., 2015 
+3. DAVY CIELEN, ARNO D. B. MEYSMAN, MOHAMED ALI, ``Introducing Data Science BIG DATA, MACHINE LEARNING, AND MORE, USING PYTHON TOOLS '',
+Manning Publications Co, 2016.
+4. Jonathan Dinu, ``Foundations of Data Science: A Practical
+   Introduction to Data Science with Python'', Addison-wesley Data &
+   Analytics Series, 2016.
+5. Cathy O'Neil, Rachel Schutt. ``Doing Data Science, Straight Talk
+   From The Frontline'', O'Reilly, 2014.

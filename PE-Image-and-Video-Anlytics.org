@@ -1,0 +1,79 @@
+<<<>>> IMAGE AND VIDEO ANALYTICS
+:properties:
+:author:  T. T. Mirnalinee and R.Priyadharshini
+:date: 
+:end:
+
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 2 | 4 |
+
+** COURSE OBJECTIVES
+- 	To understand the fundamentals of image and video processing
+    • To expose the students to image analysis techniques
+    • To acquire the knowledge of extracting information from surveillance videos.
+    • To understand the models used for recognition of objects in videos
+
+#+end_comment
+
+
+#+startup: showall
+
+{{{unit}}}
+|UNIT I | IMAGE AND VIDEO FUNDAMENTALS | 9 |
+Introduction – Sampling and Quantization – Pixel Relationships - Spatial Domain : Gray level Transformations, Histogram Processing; Spatial Filtering – Smoothing and Sharpening. Frequency Domain: Smoothing and Sharpening filters – Image restoration -Image and Video data formats, Color models in image and Video.
+
+{{{unit}}}
+|UNIT II | IMAGE ANALYSIS| 9 | 
+Detection of Discontinuities – Edge Operators – Edge Linking and Boundary Detection – Thresholding – Region Based Segmentation – Motion Segmentation, - Component Labeling - Image Features - Textures - Boundary representations and descriptions - Regional descriptors - Feature selection and Feature dimensionality reduction. Image Classification and Recognition- statistical Classifiers - Clustering Algorithms - Hierarchical and Partitional clustering
+
+{{{unit}}}
+|UNIT III |VIDEO ANALYTICS | 10 |(T6:11-19)
+ntroduction-Video Basics - Fundamentals for Video Surveillance - Scene Artifacts - Object Detection and Tracking: Adaptive Background Modelling and Subtraction - Pedestrian Detection and Tracking - Vehicle Detection and Tracking - Articulated Human Motion Tracking in Low - Dimensional Latent Spaces
+
+{{{unit}}}
+|UNIT IV | HUMAN FACE RECOGNITION & GAIT ANALYSIS 	| 9 |
+				9
+Introduction: Overview of Recognition algorithms – Human Recognition using Face: Face Recognition from video, Evaluation of Face Recognition Technologies - Human Recognition using gait: View Invariant Gait Recognition, Role of Shape and Dynamics in Gait Recognition. 3D Feature-based alignment feature-based alignment: Pose estimation- Geometric intrinsic calibration. Structure from motion: Triangulation - Two-frame structure from motion - Factorization - Bundle adjustment - Constrained structure and motion.  Dense motion estimation: Translational alignment: Parametric motion - Spline-based motion - Optical flow - Layered motion 
+
+{{{unit}}}
+|UNIT V | BEHAVIOURAL ANALYSIS & ACTIVITY RECOGNITION | 9 | 		
+Event Modelling-Behavioural Analysis-Human Activity Recognition-Complex Activity Recognition - Activity modelling using 3D shape, Video summarization, shape based activity models-Suspicious Activity Detection.
+\hfill *Total Periods: 45*
+
+
+** TEXT BOOKS
+1. Dama Chellappa, Amit K.Roy-Chowdhury, Kevin Zhou.S, “Recognition of Humans and their Activities using Video”, Morgan & Claypool Publishers, 2005.
+    1. Yunqian Ma, Gang Qian, “Intelligent Video Surveillance: Systems and Technology”, CRC Press (Taylor and Francis Group), 2009.
+    2. Richard Szeliski, Computer Vision: Algorithms and Applications, 20102.
+    3. Rafael C. Gonzalez, Richard Eugene Woods, Digital ImageProcessing Pearson Education India, 2009.
+    4. Digital Image Processing and Analysis: Applications with MATLAB and CVIP tools
+3rd Edition Scott E Umbaugh
+
+
+
+
+
+
+       
+
+
+
+** SUGGESTIVE EXPERIMENTS: 	(Using Python / Matlab)				
+
+    1. Automatic Creation of Masks for Veterinary Thermographic Images 
+    2. Thermographic Image Analysis for Detection of Anterior Cruciate Ligament Rupture in Canines
+    3. Thermographic Image Analysis for the Detection of Canine Bone Cancer 
+    4. A New Algorithm for Blood Vessel Segmentation in Retinal Images 
+    5. Automatic Mask Creation and Feature Analysis for Detection IVDD in Canines 
+    6. Skin Lesion Classification Using Relative Color Features
+    7. Automatic Segmentation of Blood Vessels in Retinal Images
+    8. Classification of Land from Satellite Images Using Quadratic Discriminant Analysis and Multilayer Perceptron
+    9. Watershed-based Approach to Skin Lesion Border Segmentation
+    10. Fingerprint recognition using representation and classification
+    11. Automated Inspection for industrial applications
+    12. Detecting moving objects and shadows in video streams
+    13. Understanding models for foreground segmentation in video frames
+    14. Multiple object tracking in surveillance video
+    15. Automatic Traffic Scene Analysis

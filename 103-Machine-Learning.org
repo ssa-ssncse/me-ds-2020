@@ -1,0 +1,75 @@
+* <<< >>> MACHINE LEARNING 
+:properties:
+:author: J suresh, S Kavitha
+:date: 22 Nov 2019
+:end:
+
+#+startup: showall
+
+#+begin_comment
+1. Unit 1: Remove concept learning
+2. Add Association Rule mining and Frequent-Item Sets under unsupervised learning
+#+end_comment
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 2 | 4 |
+
+** Course Objectives
+- To have a basic knowledge of the concepts and techniques of machine
+  learning.
+- To understand the working of various machine learning algorithms.
+- To use the various probability based learning techniques and Unsupervised Learning.
+- To understand reinforcement learning and graphical models.
+
+{{{unit}}}
+|Unit I |Introduction|8|
+Introduction: Learning -- Types of machine learning -- Supervised learning -- The machine learning process; Preliminaries: Terminology -- Testing machine learning algorithms -- Turning data into probabilities -- Basic statistics -- Bias-variance tradeoff.
+
+{{{unit}}}
+|Unit II|Linear and Non-Linear Models|10| 
+The Brain and the Neuron -- Perceptron -- Linear separability -- Linear regression; Multi-Layer Perceptron: Going forwards -- Going backwards -- Back propagation error -- Multi-layer perceptron in Practice -- Examples of using the MLP; Radial Basis Functions and Splines: Concepts -- RBF Network; Support Vector Machines: Kernels -- Support Vector Machine Algorithm.
+
+{{{unit}}}
+|Unit III|Tree and Probabilistic Models |9| 
+Learning with Trees: Decision trees -- Constructing decision trees -- Classification and regression trees; Ensemble Learning: Boosting -- Bagging -- Random forests -- Different ways to Combine Classifiers; Probabilistic Learning: Gaussian Mixture Models -- Nearest neighbor methods. 
+
+{{{unit}}}
+|Unit IV|Dimensionality Reduction and Unsupervised Learning |9| 
+Dimensionality Reduction: Linear discriminant analysis -- Principal component analysis -- Independent component analysis; Unsupervised Learning: K-means algorithm -- Self Organizing feature maps. 
+
+\begin{comment}
+Evolutionary Models are removed, because that will be covered in optimization techniques subject.
+\end{comment}
+
+{{{unit}}}
+|Unit V|Reinforcement Learning and Graphical Models |9|
+Reinforcement Learning: `Getting lost' example -- Markov decision process -- Q-learning algorithm. Graphical Models: Bayesian networks -- Markov Random Fields -- Hidden markov models.
+
+\hfill *Total: 45*
+
+** Suggestive Experiments (Python - Numpy, Scipy, Scikit-learn, Matplotlib)
+1. Study on python libraries
+2. Perceptron and Linear Regression
+3. Multi-layer Perceptron
+4. Support Vector Machine
+5. Decision Tree algorithm
+6. k-Nearest Neighbor algorithm
+7. K-means clustering
+8. Random Forest and AdaBoost ensemble techniques
+9. Dimensionality reduction techniques : LDA, PCA
+
+** Course Outcomes
+After the completion of this course, students will be able to: 
+- Understand the basic concepts of machine learning (K2).
+- Apply linear and non-linear techniques for classification problems   (K4).
+- Develop applications using tree and probabilistic models (K3).
+- Apply various dimensionality reduction techniques and Unsupervised Learning (K3).
+- Understand the concepts of reinforcement learning and graphical models (K2).
+      
+** References
+1. Stephen Marsland, ``Machine Learning – An Algorithmic    Perspective'', Second Edition, Chapman and Hall/CRC Machine
+   Learning and Pattern Recognition Series, 2014.
+2. Tom M Mitchell, ``Machine Learning, First Edition'', McGraw Hill Education, 2013.
+3. Ethem Alpaydin, ``Introduction to Machine Learning 3e (Adaptive    Computation and Machine Learning Series)'', Third Edition, MIT Press, 2014
+4. Jason Bell, ``Machine learning – Hands on for Developers and Technical Professionals'', First Edition, Wiley, 2014
+5. Peter Flach, ``Machine Learning: The Art and Science of Algorithms that Make Sense of Data'', First Edition, Cambridge University Press, 2012.

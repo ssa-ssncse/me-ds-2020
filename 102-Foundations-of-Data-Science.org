@@ -1,0 +1,137 @@
+ <<<PE206>>> Foundations of Data Science 
+:properties:
+:author: Dr. T. T. Mirnalinee and Ms. S. Rajalakshmi
+:date: 
+:end:
+
+#+begin_comment
+RK
+The course outcome could be similar to the following and the contents can be tuned to this
+Describe what Data Science is and the skill sets needed to be a data scientist. - Covered in Unit I Introduction 
+Explain the signiﬁcance of exploratory data analysis (EDA) in data science. Apply basic tools (plots, graphs, summary statistics) to carry out EDA. -- covered in Unit II and IV
+Describe the Data Science Process and how its components interact.  - covered in Unit I
+Apply EDA and the Data Science process in a case study. -- Covered in Unit II and Unit I
+Apply basic machine learning algorithms (Linear Regression, k-Nearest Neighbors (k-NN), k-means, Naive Bayes) for predictive modeling. --Covered in Unit III
+
+Identify common approaches used for Feature Generation.  -- We feel it is overloaded, kindly suggest the unit to include
+Identify basic Feature Selection algorithms (Filters, Wrappers, Decision Trees, Random Forests) and use in applications.-- DT and RF are covered in unit III 
+Create eﬀective visualization of given data using basic tools. -- covered in unit IV
+Work eﬀectively in teams on data science projects.  -- Applications are given in unit V and lab
+
+
+------
+
+Is it a good idea to introduce data ethics?  -- included in Unit V
+Refer Data Science from Scratch, 2nd Edition by Joel Grus
+
+#+end_comment
+
+
+
+
+#+begn_comment
+RSM
+1. Consider the book: Doing Data Science -- Included in text books
+2. Python should be covered in high level: lists, dictionaries, classes -- Basics can be covered in lab in order to python specific
+3. NumPy (arrays), Scikit-Learn (ML algorithms), Pandas (data  table) should be covered for doing data anaylysis -- Covered in Unit I
+4. Matplotlib should be introduced for visualization -- Covered in Unit IV
+#+end_comment
+
+#+begin_comment
+- 1. 
+- 2. We checked other university courses relevant to this
+- 3. Should we include Probabilty and statistics.
+Randomness -- Empirical Distributions -- Testing Hypothesis -- Estimation --
+Why the mean matters -- Prediction -- Inference for Regression.
+
+
+** CO PO MAPPING :noexport:
+#+NAME: co-po-mapping
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
+| CO1            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+| CO2            | K2 |   2 |   2 |   1 |   1 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+| CO3            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+| CO4            | K2 |   2 |   2 |   1 |   1 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+| CO5            | K2 |   2 |   2 |   1 |   1 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+| Score          |    |  12 |  10 |   7 |   7 |   5 |   0 |   0 |   5 |   5 |    5 |    0 |    5 |   10 |   12 |   10 |
+| Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To learn fundamentals of Data Science using Python
+  # for carrying  out basic statistical modeling and analysis
+- To understand probability distributions and statistical Inferences
+  # used for statistical modeling
+- To be familar with supervised and unsupervised methods in machine
+  learning
+- To explore the algorithms used for analysing massive data problems
+  and social networks
+- To learn about visualization. 
+
+#+end_comment
+
+
+#+startup: showall
+
+{{{unit}}}
+|UNIT I | INTRODUCTION TO DATA SCIENCE | 9 |(T1:ch1,2, T2:ch2)
+Introduction: Need for data science -- Benefits of data science -- Facets of data -- Big data echo system -- 
+The data science process: Retrieving data -- Cleansing, integrating and transforming data -- 
+Data analysis -- Build the models -- Presenting findings and building applications; Toolboxes for Data Scientists.
+
+{{{unit}}}
+|UNIT II | DESCRIPTIVE ANALYTICS AND INFERENCE | 9 | (T2:ch3,4)
+Descriptive Statistics: Introduction -- Data Preparation -- Exploratory Data Analysis -- Estimation; 
+Statistical Inference: Introduction -- Frequentist Approach -- Measuring the Variability in Estimates -- Hypothesis Testing.
+
+#+begin_comment
+RK
+Basic tools (plots, graphs, summary statistics) to carry out EDA.
+
+#+end_comment
+{{{unit}}}
+|UNIT III | MACHINE LEARNING | 10 |(T6:11-19)
+Linear Regression - k-Nearest Neighbors (k-NN) -- Perceptron algorithm -- Support Vector Machines -- 
+Decision Trees -- Strong and Weak Learning - Boosting --  k-means clustering -- Evaluating Classifiers.
+#+begin_comment
+RK
+logistic regression,  -- already any algorithms are there in unit III
+#+end_comment
+{{{unit}}}
+|UNIT IV | DATA VISUALIZATION TECHNIQUES | 9 |(T4:ch4 , T3:8)
+Visualization with Matplotlib; Visualizing Model Performance: Ranking -- Profit Curves -- 
+ROC Graphs and Curves -- The Area Under the ROC Curve (AUC) -- Cumulative Response and Lift Curves. 
+
+{{{unit}}}
+|UNIT V | DATA SCIENCE APPLICATIONS | 9 | (T5:Ch16, T2:8,9,10)
+Next-Generation Data Scientists, Hubris, and Ethics  -- Social network analysis -- Recommender systems -- Sentiment analysis -- Object detection and recognition.
+#+begin_comment
+RK
+Refer book on data analysis with open source tools - Part IV
+#+end_comment
+\hfill *Total Periods: 45*
+
+#+begin_comment
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+- Develop Python programs to perform analysis on data (K3)
+- Understand various probability distributions and statistical inferences (K2)
+- Develop applications to demonstrate machine learning algorithms in practice (K3)
+- Understand the principles of handling data streams (K2)
+- Discuss topic and graphical modeling techniques in real world problem (K2).
+#+end_comment
+ 
+** TEXT BOOKS
+1. DAVY CIELEN, ARNO D. B. MEYSMAN, MOHAMED ALI, ``Introducing Data Science - Big data, Machine Learning, and more using Python tools'', Manning Publications Co, 2016. (Unit I)
+2. Laura Igual, Santi SeguÃ­, ``Introduction to Data Science - A Python Approach to Concepts, Techniques and Applications'', Springer Nature, 2017  (Unit I, II,III,V)
+3. Foster Provost and Tom Fawcett, ``Data Science for Business'', Oâ€™Reilly Media, Inc., 2013 (Unit IV)
+4. Jake VanderPlas, ``Python Data Science Handbook ESSENTIAL TOOLS FOR WORKING WITH DATA '', Oâ€™Reilly Media, Inc., 2016 (Unit I,IV) 
+5. Rachel Schutt and Cathy O’Neil, ``Doing Data Science'', O’Reilly Media, Inc., 2014 (Unit V)
+6. Joel Grus, ``Data Science from Scratch'', O’Reilly Media, Inc., 2015 (Unit III)
+
+ 
+ 

@@ -1,0 +1,25 @@
+1. Make a Basic Bar Graph and do the following:
+Group bars together by a second variable,  Make a Bar Graph of Counts, Use Colors in a Bar Graph, Color Negative and Positive Bars Differently, Adjust Bar Width and Spacing, Make a Stacked Bar Graph, Make a Proportional Stacked Bar Graph, Add Labels to a Bar Graph, Make a Cleveland Dot Plot
+
+2. Making a Basic Line Graph and do the following:
+Adding Points to a Line Graph, Making a Line Graph with Multiple Lines, Changing the Appearance of Lines, Changing the Appearance of Points, Making a Graph with a Shaded Area, Making a Stacked Area Graph, Adding a Confidence Region
+
+3. Making a Basic Scatter Plot and do the following:
+Grouping Data Points by a Variable Using Shape or Color, Using Different Point Shapes, Mapping a Continuous Variable to Color or Size, Dealing with Overplotting, Adding Fitted Regression Model Lines, Adding Fitted Lines from an Existing Model, Adding Fitted Lines from Multiple Existing Models, Adding Annotations with Model Coefficients, Adding Marginal Rugs to a Scatter Plot, Labeling Points in a Scatter Plot, Creating a Balloon Plot, Making a Scatter Plot Matrix
+
+4. Summarized Data Distributions. 
+ Making a Basic Histogram,  Making Multiple Histograms from Grouped Data, Making a Density Curve, Making Multiple Density Curves from Grouped Data,  Making a Frequency Polygon, Making a Basic Box Plot,  Adding Notches to a Box Plot,  Adding Means to a Box Plot,  Making a Violin Plot,  Making a Dot Plot,  Making Multiple Dot Plots for Grouped Data, Making a Density Plot of Two-Dimensional Data
+
+5. Working with Graphs
+  Creating a Network Graph,  Creating a Heat Map, Creating a Dendrogram,  Creating a QQ Plot.
+
+6. Visualising spatial data in R
+Creating new spatial data, Projections: setting and transforming CRS in R, Attribute joins, Clipping and spatial joins
+
+Miniproject:
+Sentiment Analysis Project in R
+Uber Data Analysis Project
+Detect Credit Card Fraud in R
+Movie Recommendation System Project in R
+Customer Segmentation using Machine Learning in R
+
