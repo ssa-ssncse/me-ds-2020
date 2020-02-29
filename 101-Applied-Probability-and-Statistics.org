@@ -1,4 +1,4 @@
-* <<<DS11>>> STATISTICS AND PROBABILITY
+* <<<DS11>>> APPLIED PROBABILITY AND STATISTICS 
 :properties:
 :author: Milton
 :date: 9/11/2019
