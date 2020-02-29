@@ -1,4 +1,4 @@
- <<<PE206>>> Foundations of Data Science 
+ <<<PE206>>> Introduction to Data Science 
 :properties:
 :author: Dr. T. T. Mirnalinee and Ms. S. Rajalakshmi
 :date: 
