@@ -1,6 +1,6 @@
 * <<<SOCIAL MEDIA ANALYTICS>>> 
 :properties:
-:author: V.S. Felix Enigo, G. Raghuraman
+:author: Dr V.S. Felix Enigo, Dr G. Raghuraman / Dr S V Jansi Rani
 :date: 11 Dec 2019
 :end:
 
