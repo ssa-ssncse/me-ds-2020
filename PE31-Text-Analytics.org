@@ -1,6 +1,6 @@
 * <<<TEXT ANALYTICS>>> 
 :properties:
-:author: B.Senthil Kumar, D. Thenmozhi
+:author: Mr B.Senthil Kumar, Dr D. Thenmozhi
 :date: 04 Dec 2019
 :end:
 
