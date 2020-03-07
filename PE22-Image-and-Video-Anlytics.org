@@ -1,6 +1,6 @@
 <<<>>> IMAGE AND VIDEO ANALYTICS
 :properties:
-:author:  T. T. Mirnalinee and R.Priyadharshini
+:author: Dr T. T. Mirnalinee and R.Priyadharshini / Dr K Madhewari and Dr P Mirunalini
 :date: 
 :end:
 
