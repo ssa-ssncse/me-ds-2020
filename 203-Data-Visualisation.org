@@ -1,0 +1,55 @@
+* <<<S2>>> Data Visualisation
+:properties:
+:author:  Dr R Priyadarshini and Ms M Saritha
+:date: 
+:end:
+
+#+startup: showall
+#+begin_comment
+NIL
+#+end_comment
+
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** COURSE OBJECTIVES
+- course objective 1
+- course objective 2
+
+
+{{{unit}}}
+|UNIT I|TITLE|9| 
+
+
+{{{unit}}}
+|UNIT II|TITLE|9| 
+
+
+{{{unit}}}
+|UNIT III|TITLE|10| 
+
+
+{{{unit}}}
+|UNIT IV|TITLE|8| 
+
+{{{unit}}}
+|UNIT V|TITLE|9| 
+
+
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+- Course Outcomes 1 (<Knowledg Level No>K3) 
+- Course Outcomes 2 (<Knowledg Level No>K3)
+- Course Outcomes 3 (<Knowledg Level No>K3)
+- Course Outcomes 4 (<Knowledg Level No>K3)
+- Course Outcomes 5 (<Knowledg Level No>K3)
+
+** TEXT BOOKS
+    
+
+** REFERENCES
