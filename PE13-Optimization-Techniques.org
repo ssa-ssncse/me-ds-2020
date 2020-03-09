@@ -15,41 +15,56 @@ NIL
 |3|0|0|3|
 
 ** COURSE OBJECTIVES
-- course objective 1
+- To understand basic optimization techniques
+- To gain knowledge in classical optimization techniques
+- To understand the nonlinear programming methods
+- To explore Constrained optimization problems
+- To introduce Modern  Optimization methods.
+
 - course objective 2
 
 
 {{{unit}}}
-|UNIT I|TITLE|9| 
+|UNIT I|INTRODUCTION|9| 
+Introduction to Optimization: Engineering application of optimization –- Statement of an optimization problem -- Optimal Problem formulation -- Classification of Optimization problems -- Classification based on the existence of constraints -- Nature of the design variables--Physical structure of the Problem --  Nature of the Equations Involved --  Permissible Values of the Design Variables -- Deterministic Nature of the Variables -- Separability of the Functions -- Number of Objective Functions
+
+{{{unit}}}
+|UNIT II|CLASSICAL AND LINEAR OPTIMIZATION TECHNIQUES |9| 
+Classical Optimization Techniques: Single-variable optimization -- Multivariable optimization with no constraints -- Multivariable optimization with equality constraints -- Multivariable optimization with inequality constraints -- Kuhn–Tucker Conditions -- Convex programming problem; Linear Programming:  Introductio -- Applications of linear programming -- Standard form of a linear programming problem -- Geometry of linear programming problems -- Solution of a system of linear simultaneous equations - Simplex algorithm.
+
+{{{unit}}}
+|UNIT III| NONLINEAR PROGRAMMING |10| 
+One-Dimensional Minimization Methods: Introduction -- Unimodal function -– Elimination methods -- Interpolation methods -- Quadratic interpolation method -- Cubic interpolation method -- Direct root methods; Unconstrained Optimization Techniques:  Introduction -- Classification of unconstrained minimization methods -- Direct seacrh methods - Random search methods -- Grid search method -- Univariate method -- Powell’s method -- Indirect search methods -- Gradient based method -- Cauchy’s steepest descent method -- Newton’s method -- Conjugate gradient method -- Marquardt method -- Quasi-newton methods
 
 
 {{{unit}}}
-|UNIT II|TITLE|9| 
-
-
-{{{unit}}}
-|UNIT III|TITLE|10| 
-
+|UNIT IV| CONSTRAINED OPTIMIZATION TECHNIQUES |8| 
+Direct Methods: Random search methods -- Complex method -- Sequential linear programming -- Basic approach in the methods of feasible directions -- Zoutendijk’s method of feasible directions -- Rosen’s gradient projection method -- Generalized reduced gradient method -- Sequential quadratic programming; Indirect Methods: Transformation techniques -- Basic approach of the penalty function method -- Interior penalty function method -- Convex programming problem -- Exterior penalty function - Checking the convergence of constrained optimization problems.
 
 {{{unit}}}
-|UNIT IV|TITLE|8| 
-
-{{{unit}}}
-|UNIT V|TITLE|9| 
-
-
+|UNIT V| MODERN METHODS OF OPTIMIZATION |9| 
+Genetic algorithms -- Simulated annealing -- Particle swarm  optimization -- Ant colony optimization -- Fuzzy optimization techniques. 
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Course Outcomes 1 (<Knowledg Level No>K3) 
-- Course Outcomes 2 (<Knowledg Level No>K3)
-- Course Outcomes 3 (<Knowledg Level No>K3)
-- Course Outcomes 4 (<Knowledg Level No>K3)
-- Course Outcomes 5 (<Knowledg Level No>K3)
+- Understand basics of optimization and their classification (K2)
+- Discuss single and multivariable optimization problems (K2)
+- Understand non linear unconstrained optimization problems (K2)
+- Frmulate and solve constrained optimization problems (K3)
+- Solve problems using mpdern optimization tyechniques such as GA, PSO, ACO. (K3)
 
 ** TEXT BOOKS
-    
+    1. Singiresu S. Rao, ``Engineering OptimizationTheory and Practice``,  John Wiley & Sons Inc, Fourth Edition, 2009.
+    2. Kalyanmoy Deb, ``Optimization For Engineering Design Algorithms And Examples``, PHI Learning Private Ltd, Second Edition 2012.
 
 ** REFERENCES
+1.  Edwin K P Chong, Stanislaw H Zak, ``An Introduction to Optimization``, John Wiley & Sons Inc, Second Edition, 2001.
+2.  Reeves C, ``Modern heuristic techniques for combinatorial problems``, McGraw-Hill Book Co Ltd, 1995.
+3. Günther Zäpfel, Roland Braune, Michael Bögl, ``Metaheuristic Search Concepts: A Tutorial with Applications to Production and logistics``, Springer, 2014
+4. Arora J, ``Introduction to Optimization Design``, Elsevier Academic Press, New Delhi, 2004.
+5. Saravanan R, ``Manufacturing Optimization through Intelligent Techniques``, Taylor & Francis, CRC Press, 2006.
+
+
+
